@@ -49,6 +49,8 @@ This project aims to **detect fake news articles** using two powerful machine le
    - Confusion Matrix
    - F1-score
 
+## DFD(DataFlow Diagram)
+![workflow]()
 ---
 
 
