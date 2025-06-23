@@ -50,7 +50,14 @@ This project aims to **detect fake news articles** using two powerful machine le
    - F1-score
 
 ## DFD(DataFlow Diagram)
-![workflow]()
+![workflow](https://github.com/Shahin-kaushar/Fake-News-Detection-using-Random-forest-LSTM-/blob/main/DFD.png)
+
+## LSTM  Model performance 
+![LSTM Model](https://github.com/Shahin-kaushar/Fake-News-Detection-using-Random-forest-LSTM-/blob/main/output-Fake_news_detection/output-LSTM.png)
+
+## Random Forest Model performance
+![Random Forest Model](https://github.com/Shahin-kaushar/Fake-News-Detection-using-Random-forest-LSTM-/blob/main/output-Fake_news_detection/output-LSTM.png)
+
 ---
 
 
